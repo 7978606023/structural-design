@@ -1,0 +1,10 @@
+package com.ip.employeecomposite;
+
+public class CompositeLunch {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

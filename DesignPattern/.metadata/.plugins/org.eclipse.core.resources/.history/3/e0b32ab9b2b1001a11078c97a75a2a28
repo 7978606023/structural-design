@@ -1,0 +1,5 @@
+package com.ip.bridgedraw;
+
+public interface DrawApi {
+
+}

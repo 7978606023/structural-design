@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;facadeshape&apos;&#x0D;&#x0A;- Original project: &apos;facadeshape&apos;&#x0D;&#x0A;- Original element: &apos;com.ip.facadeshape.App.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ip.facadeshape{App.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1592764637349" subPackages="false" version="1.0"/>
+</session>

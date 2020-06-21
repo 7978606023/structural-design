@@ -1,0 +1,5 @@
+package com.ip.shapingdecorator;
+
+public class Rectangle {
+
+}

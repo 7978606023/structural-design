@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+H:\My Program\CollectionFramework\New Collections\DesignPattern\.metadata\.plugins\org.eclipse.jdt.core
+2145277836.index
+3920219276.index
+2547719202.index
+2661357382.index
+3167420903.index
+2174550345.index
+3081549755.index
+660611696.index
+2698408573.index
+3359708116.index
+2711876225.index
+1596533897.index
+3336556321.index
+2512658189.index

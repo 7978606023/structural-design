@@ -1,0 +1,5 @@
+package com.ip.flyweightshape;
+
+public class Circle {
+
+}
